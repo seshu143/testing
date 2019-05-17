@@ -5,4 +5,4 @@ echo "ip address details"
 ip address show eth0
 df -h
 hostname
-ping 10.50.1.198
+~
